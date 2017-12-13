@@ -1,0 +1,11 @@
+* {
+  box-sizing: border-box;
+  padding:    0;
+  margin:     0;
+}
+
+#main-map {
+  margin: 0 auto;
+  width:  100vw;
+  height: 100vh;
+}
